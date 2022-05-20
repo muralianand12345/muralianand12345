@@ -5,7 +5,7 @@
 
 ---
 
-## [Discord Server 😎](https://discord.gg/5aUsH6QEGh) | [Website](https://bit.ly/aboutmurali)
+## [Discord Server](https://discord.gg/5aUsH6QEGh) | [Website](https://bit.ly/aboutmurali)
 <a href="https://discord.gg/5aUsH6QEGh"><img src="https://discord.com/api/guilds/864143424730693672/widget.png?style=banner2"></a>
 
 ---
@@ -31,5 +31,3 @@
 
   ## 💰Buy Me A Coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muralianand) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
