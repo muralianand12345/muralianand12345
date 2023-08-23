@@ -45,5 +45,3 @@
 
   ## 💰 **You can help me by Donating**
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muralianand) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muralianand12345) 
-
-[![DeepScan grade](https://deepscan.io/api/teams/21991/projects/25346/branches/791508/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=21991&pid=25346&bid=791508)
