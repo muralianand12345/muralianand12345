@@ -45,8 +45,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muralianand12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muralianand12345&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralianand12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralianand12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br />
+![](https://wakatime.com/share/@Murlee/a888b38b-1d9b-466c-a968-699a119b4b21.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muralianand12345&limit=5&theme=discord&combine_all_yearly_contributions=true)
