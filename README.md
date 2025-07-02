@@ -1,7 +1,6 @@
 # **_Murali Anand_**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralianand12345&label=Profile%20views&color=0e75b6&style=flat" alt="muralianand12345" /> </p>
-[![wakatime](https://wakatime.com/badge/user/33de01f3-6fe2-4e0e-be7b-92ad026a6333.svg)](https://wakatime.com/@33de01f3-6fe2-4e0e-be7b-92ad026a6333)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralianand12345&label=Profile%20views&color=0e75b6&style=flat" alt="muralianand12345" /> [![wakatime](https://wakatime.com/badge/user/33de01f3-6fe2-4e0e-be7b-92ad026a6333.svg)](https://wakatime.com/@33de01f3-6fe2-4e0e-be7b-92ad026a6333) </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/678402714765361182) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/murali.anand.773) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_mur.lee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murali-anand) 
